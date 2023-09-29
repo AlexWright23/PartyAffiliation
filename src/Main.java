@@ -1,5 +1,23 @@
 import java.util.Scanner;
 
+//Class partyAffiliation
+//        main()
+//        string = "D"
+//        string = "R"
+//        string = "I"
+//        output "Please enter your party affiliation (D,R,I) "
+//        input partyAffiliation
+//        if partyAffiliation = D then
+//        output "You get a Donkey!"
+//        else if partyAffiliation = R then
+//        output "You get an Elephant!"
+//        else if partyAffiliation = I then
+//        output "You get an Independent Man!"
+//        else
+//        output "Not a valid party entered."
+//        return
+//        endClass
+
 public class Main {
     public static void main(String[] args)
     {
